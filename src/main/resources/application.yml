@@ -1,0 +1,8 @@
+feign:
+  joke-service:
+    name: "joke-service"
+    url: "https://v2.jokeapi.dev/joke/Any"
+
+joke:
+  type: "single"
+  amount: 16
